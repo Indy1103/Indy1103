@@ -1,6 +1,6 @@
 # Hi there, I'm Indy 👋
 
-I'm a Induwara with a passion for Full Stack Development, AI and Robotics. I enjoy taking pictures in my free time 📸.
+I'm Induwara with a passion for Full Stack Development, AI and Robotics. I enjoy taking pictures in my free time 📸.
 
 - 🔭 I’m currently working on developing an order tracking app for the project groups at the University of Alberta
 - 📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/indy03/)
